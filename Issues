@@ -1,0 +1,7 @@
+Irrelevant watchers do not close
+  Try to open some nested folders. Then rename the root one, new root watcher will be created after opening, but old
+  watchers for nested folders will not be cleared. (check if still relevant)
+
+Remove secret from worker container after pulling the worker repo
+
+Do not use receipts from project; load them separately and then reload on edit/delete

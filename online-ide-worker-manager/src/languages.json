@@ -1,0 +1,10 @@
+[
+  {
+    "name": "node",
+    "dockerfile": "./dockerfiles/node/Dockerfile"
+  },
+  {
+    "name": "ruby",
+    "dockerfile": "./dockerfiles/ruby/Dockerfile"
+  }
+]

@@ -1,0 +1,8 @@
+.splitter-layout > .layout-splitter {
+  transition: background-color .1s ease-in;
+  background-color: transparent;
+}
+
+.splitter-layout > .layout-splitter:hover {
+  background-color: #5f5f5f;
+}
